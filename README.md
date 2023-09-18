@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: contact via email - khj951213@gmail.com
 
-- Portfolio Website: http://junedev.com
+- Portfolio Website: http://junedev.com :eyes:
 
 <!---
 khj951213/khj951213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
