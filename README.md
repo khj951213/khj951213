@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khj951213
+- 👋 Hi, I’m June!
 
 - 📫 How to reach me: contact via email - khj951213@gmail.com
 
